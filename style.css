@@ -1,0 +1,25 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: white;
+}
+
+h1 {
+  font-style: Sans-serif;
+  color: #373fff;
+  text-align: center;
+}
+
+.MLK {
+  margin-right: 10px;
+}
+
+.container {
+  display: inline-block;
+}
+
+.about {
+  text-align: left;
+}
